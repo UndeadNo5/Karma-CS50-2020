@@ -5,12 +5,13 @@
 
 int main(void)
 {
-    float dollar = -1;
+    float dollar;
 // Get user input of a positive float    
-    while (dollar < 0.009)
+    do
     {
         dollar = get_float("Change: ");
     }
+    while (dollar < 0.009)
 // Change $ into a interger    
     int change = round(dollar * 100);
 // Define and assign value to coins while subtracting the value from the original change
