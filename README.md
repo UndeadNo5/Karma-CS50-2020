@@ -8,6 +8,9 @@ Problem set 0
 Problem set 1
 
   Hello - simple hello world type program
-  
   Mario - build a right aligned # pyramid the height of user input 1-8 - 3 style errors.
-  
+  Cash - Determine the lowest amount of coins that can be given for set amount of change
+
+Triangle - created a function. Determine whether 3 lengths can form a valid triangle. 
+
+ 
