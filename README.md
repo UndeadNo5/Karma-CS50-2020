@@ -15,6 +15,7 @@ Triangle - created a function. Determine whether 3 lengths can form a valid tria
 
 Problem set 2
 
- Readability - determine the reading grade level of given text - *can update to combine 3 functions into a single if/if else loop, so the code is only looping through the text once rather than 3 times
+ Readability - determine the reading grade level of given text - *can update to combine 3 functions into a single if/if else loop, so the code is only looping through the text once rather than 3 times*
+Caesar - A simple shift cypher that preserves upper and lower and non alpha characters
 
  
